@@ -1,0 +1,19 @@
+*{
+  font-family: 'Pokemon Emerald';
+
+}
+@font-face {
+  font-family: 'Pokemon Emerald';
+  src: url('./font/pokemon-emerald.ttf') format('truetype');
+  /* Otros formatos de fuente (e.g., 'truetype', 'opentype') si es necesario */
+}
+html, body, #root {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: 1px solid black; /* Ancho y color del borde */
+  background-image: url(./images/background.png);
+
+}

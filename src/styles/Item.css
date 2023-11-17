@@ -1,0 +1,25 @@
+.item-contenedor {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(248, 224, 160);
+    width: 600px;
+    height: 130px;
+    
+    margin: 25px;
+    justify-content: space-between;
+}
+.item-imagen {
+    margin-top: 20px;
+    width: 90px;
+    height: 90px; 
+}
+.item-nombre{
+    width: 300px;
+    margin-left: 10px;
+    text-align: left;
+    font-size: 50px;
+}
+.item-costo {
+    margin-top: 50px;
+    font-size: 40px;
+}
