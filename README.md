@@ -1,3 +1,6 @@
+![image](https://github.com/mianlol01/Practica_React_03_PokeMart/assets/144628881/6a1e022e-a5c0-469d-94bd-149c09e645e1)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
